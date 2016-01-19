@@ -1,4 +1,4 @@
-# Node as service deployment on Windows
+# Node as a service deployment on Windows
 Node.JS deployment using batch (.bat) file using nssm
 
 Recentely, I deployed node.js (using express.js, couchbase 4.1) at my workplace on Windows environment. I was looking to host the app
